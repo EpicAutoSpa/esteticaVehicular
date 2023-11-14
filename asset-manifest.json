@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/esteticaVehicular/static/css/main.21aaf6af.css",
+    "main.css": "/esteticaVehicular/static/css/main.921882b8.css",
     "main.js": "/esteticaVehicular/static/js/main.49a330b5.js",
     "static/media/audi_interior.jpg": "/esteticaVehicular/static/media/audi_interior.1595ac66287493a0d8f2.jpg",
     "static/media/audi_interior2.jpg": "/esteticaVehicular/static/media/audi_interior2.9ce6f7e93208871361e7.jpg",
@@ -12,11 +12,11 @@
     "static/media/audi_exterior.jpg": "/esteticaVehicular/static/media/audi_exterior.7f4f454eee246ab71871.jpg",
     "static/media/citroen_exterior.jpg": "/esteticaVehicular/static/media/citroen_exterior.c91eb1c87160e6a48079.jpg",
     "index.html": "/esteticaVehicular/index.html",
-    "main.21aaf6af.css.map": "/esteticaVehicular/static/css/main.21aaf6af.css.map",
+    "main.921882b8.css.map": "/esteticaVehicular/static/css/main.921882b8.css.map",
     "main.49a330b5.js.map": "/esteticaVehicular/static/js/main.49a330b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.21aaf6af.css",
+    "static/css/main.921882b8.css",
     "static/js/main.49a330b5.js"
   ]
 }
