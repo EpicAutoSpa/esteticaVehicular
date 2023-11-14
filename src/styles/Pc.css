@@ -1,10 +1,7 @@
 @media(min-width: 721px){
-    *{
-        font-size: 0.9rem;
-    }
-
     .nav{
         height: 80px;
+        font-size: 0.7rem;
     }
 
     .nav .links-mobile{
@@ -35,8 +32,8 @@
         left: 0px;
         background: linear-gradient(45deg, #670d11, #cf1b24);
         border-radius: 8px;
-        width: 120px;
-        height: 35px;
+        width: 105px;
+        height: 34px;
         transition: 0.5s;
         color: #670d11;
     }
@@ -45,26 +42,25 @@
         left: 0;
     }
     .nav .links-pc li:nth-child(2):hover~.span{
-        left: 120px;
+        left: 105px;
         width: 80px;
-        height: 35px;
+        height: 34px;
     }
     .nav .links-pc li:nth-child(3):hover~.span{
-        left: 200px;
-        width: 130px;
-        height: 35px;
+        left: 185px;
+        width: 115px;
+        height: 34px;
     }
     .nav .links-pc li:nth-child(4):hover~.span{
-        left: 330px;
-        width: 95px;
-        height: 35px;
+        left: 300px;
+        width: 80px;
+        height: 34px;
     }
     .nav .links-pc li:nth-child(5):hover~.span{
-        left: 425px;
-        width: 85px;
-        height: 35px;
+        left: 380px;
+        width: 80px;
+        height: 34px;
     }
-
 
     .about-us{
         padding: 0px 100px;
